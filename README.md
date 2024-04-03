@@ -1,3 +1,3 @@
-# tylerpalko.github.io
+# breathing.github.io
 
-This is just a simple front page.
+This is just a breath front page.
